@@ -1,0 +1,19 @@
+body {
+  font-family: 'open Sars', 'Raleway' sans-serif;
+}
+
+body {
+  color: red;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header > a {
+  color: red;
+}
+
+a {
+  color: red;
+}
